@@ -14,6 +14,10 @@ a:hover, a:focus {
   background: #FCE8ED;  // pink
 }
 
+#header_wrap .inner {
+    padding-bottom: 10px;
+}
+
 #project_title {
   color: black;
   text-shadow: none;
@@ -22,6 +26,10 @@ a:hover, a:focus {
 #project_tagline {
   color: black;
   text-shadow: none;
+}
+
+#main_content {
+  padding-top: 10px;
 }
 
 #main_content_wrap {
