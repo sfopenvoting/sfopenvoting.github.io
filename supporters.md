@@ -44,11 +44,12 @@ Supervisors. For information on being listed here, contact
 ## San Francisco Residents
 
 1. [Brian Behlendorf](http://brian.behlendorf.com/),
-   Co-founder, Apache Software Foundation.
-2. Pedro Hernandez, Deputy Director, FairVote California.
-3. [Steven Hill](http://steven-hill.com), Senior Fellow, New America Foundation.
+   Co-founder, [Apache Software Foundation](https://www.apache.org).
+2. Pedro Hernandez, Deputy Director, [FairVote California][fairvote-ca].
+3. [Steven Hill](http://steven-hill.com), Senior Fellow, [New America Foundation](https://www.newamerica.org).
 4. Alec Bash, Former President, SF DemocracyAction Democratic Club.
-5. Nadia Eghbal, open-source writer, researcher, and speaker.
+5. [Nadia Eghbal](http://nadiaeghbal.com/), open-source writer, researcher,
+   and speaker.
 6. Adrian Artiles
 7. Nikolas Baron
 8. Caitlin Barta
@@ -146,5 +147,8 @@ Supervisors. For information on being listed here, contact
 1. [Philip B. Stark](http://www.stat.berkeley.edu/~stark),
    Associate Dean, Mathematical and Physical Sciences; Professor,
    Department of Statistics, University of California, Berkeley.
-2. Jennifer Pae, Director, FairVote California.
+2. Jennifer Pae, Director, [FairVote California][fairvote-ca].
 3. Dale McGrew, Co-founder and Executive Director, We Vote.
+
+
+[fairvote-ca]: http://www.fairvoteca.org/
