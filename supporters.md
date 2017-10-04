@@ -8,7 +8,22 @@ Many of these supporters have also sent letters to the Mayor and Board of
 Supervisors. For information on being listed here, contact
 <info@sfopenvoting.org>.
 
-[TODO: also add Board of Supervisors resolution in support.]
+
+## San Francisco Board of Supervisors Resolution
+
+In December 2014, the San Francisco Board of Supervisors unanimously passed a
+resolution committing San Francisco to work towards creating an open source
+voting system:
+
+> Resolution committing the City and County of San Francisco to work with
+other jurisdictions and organizations to create new voting systems using open
+source software; ....
+
+The resolution was authored by Supervisor Wiener and cosponsored by
+Supervisors Cohen, Kim, and Mar. For the full resolution text, see this
+[archived PDF](files/archive/SF_BOS_Open_Source_Voting_Res.pdf) or this
+[legislation page](https://sfgov.legistar.com/LegislationDetail.aspx?ID=1946783&GUID=0725E575-B05E-4137-B771-E8BFD5B98237)
+on SFGov (the final resolution is called “Leg Final”).
 
 
 ## Organizations
