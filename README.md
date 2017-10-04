@@ -16,9 +16,8 @@ Follow us on Twitter here: [@SFOpenVoting][SFOpenVoting-twitter].
 
 ## More to come
 
-* Supporter list
 * Local news coverage
-* How you can help
+* How you can help (e.g. sample letter of support).
 * FAQ
 * And more!
 
