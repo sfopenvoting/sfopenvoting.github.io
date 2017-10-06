@@ -1,15 +1,26 @@
-# Supporters
+# Open Source Voting Support
 
-Below are some of the supporters of the City and County of San Francisco
-starting and fully funding a project to develop and certify an open source
-paper-ballot voting system.
+There is strong support in San Francisco for creating an open source voting
+system:
 
+* [San Francisco Board of Supervisors Resolution](board-of-supervisors-resolution)
+
+In addition, below are some of those in support of the City and County of San
+Francisco starting and fully funding a project to develop and certify an open
+source paper-ballot voting system:
+
+* [Organizations](#organizations)
+* [San Francisco Residents](#san-francisco-residents)
+* [Other Individuals](#other-individuals)
+
+For information on being listed on this page, contact <info@sfopenvoting.org>.
 Many of these supporters have also sent letters to the Mayor and Board of
-Supervisors. For information on being listed here, contact
-<info@sfopenvoting.org>.
+Supervisors.
+
+[Coming soon: sample letter of support.]
 
 
-## San Francisco Board of Supervisors Resolution
+## Board of Supervisors Resolution
 
 In December 2014, the San Francisco Board of Supervisors unanimously passed a
 resolution committing San Francisco to work towards creating an open source
@@ -19,11 +30,9 @@ voting system:
 other jurisdictions and organizations to create new voting systems using open
 source software; ....
 
-The resolution was authored by Supervisor Wiener and cosponsored by
-Supervisors Cohen, Kim, and Mar. For the full resolution text, see this
-[archived PDF](files/archive/SF_BOS_Open_Source_Voting_Res.pdf) or this
-[legislation page](https://sfgov.legistar.com/LegislationDetail.aspx?ID=1946783&GUID=0725E575-B05E-4137-B771-E8BFD5B98237)
-on SFGov (the final resolution is called “Leg Final”).
+Authored by Supervisor Wiener and co-sponsored by Supervisors Cohen, Kim,
+and Mar: [\[archived PDF\]](files/archive/SF_BOS_Open_Source_Voting_Res.pdf)
+[\[legislation page\]](https://sfgov.legistar.com/LegislationDetail.aspx?ID=1946783&GUID=0725E575-B05E-4137-B771-E8BFD5B98237)
 
 
 ## Organizations
@@ -33,7 +42,11 @@ on SFGov (the final resolution is called “Leg Final”).
   [\[available here\]](http://sfgov.org/electionscommission/motions-and-resolutions)
 * [**San Francisco Democratic County Central
   Committee (DCCC)**](http://www.sfdemocrats.org).
-  Unanimous resolution on April 13, 2016.
+  Unanimous "Resolution in Support of an Open Source Voting System for San
+  Francisco" (1 page) on April 13, 2016. Introduced by Joshua Arce and
+  co-sponsored by Rebecca Prozan, Zoe Dunning and Kat Anderson:
+  [\[archived PDF\]](files/archive/SF_DCCC_Open_Source_Voting_Res.pdf)
+  [\[external link\]](http://www.sfdemocrats.org/meetings)
 * [**San Francisco Technology Democrats (SF Tech Dems)**](http://www.sftechdems.org).
   David Cruise, President & CEO, SF Tech Dems.
 * [**Harvey Milk LGBT Democratic Club**](http://www.milkclub.org)
