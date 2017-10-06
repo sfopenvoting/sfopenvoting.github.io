@@ -38,8 +38,10 @@ and Mar: [\[archived PDF\]](files/archive/SF_BOS_Open_Source_Voting_Res.pdf)
 ## Organizations
 
 * [**San Francisco Elections Commission**](http://sfgov.org/electionscommission).
-  Unanimous (6-0) resolution in November 2015.
-  [\[available here\]](http://sfgov.org/electionscommission/motions-and-resolutions)
+  Unanimous (6-0) "Open Source Voting Systems Resolution" on November 18, 2015:
+  [\[archived PDF\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.pdf)
+  [\[archived TXT\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.txt)
+  [\[external link\]](http://sfgov.org/electionscommission/motions-and-resolutions)
 * [**San Francisco Democratic County Central
   Committee (DCCC)**](http://www.sfdemocrats.org).
   Unanimous "Resolution in Support of an Open Source Voting System for San
