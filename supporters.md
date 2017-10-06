@@ -3,7 +3,7 @@
 There is strong support in San Francisco for creating an open source voting
 system:
 
-* [San Francisco Board of Supervisors Resolution](board-of-supervisors-resolution)
+* [San Francisco Board of Supervisors Resolution](#board-of-supervisors-resolution)
 
 In addition, below are some of those in support of the City and County of San
 Francisco starting and fully funding a project to develop and certify an open
