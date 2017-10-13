@@ -32,8 +32,8 @@ other jurisdictions and organizations to create new voting systems using open
 source software; ....
 
 Authored by Supervisor Wiener and co-sponsored by Supervisors Cohen, Kim,
-and Mar: [\[archived PDF\]](files/archive/SF_BOS_Open_Source_Voting_Res.pdf)
-[\[legislation page\]](https://sfgov.legistar.com/LegislationDetail.aspx?ID=1946783&GUID=0725E575-B05E-4137-B771-E8BFD5B98237)
+and Mar: [\[PDF resolution\]](files/archive/SF_BOS_Open_Source_Voting_Res.pdf)
+[\[original source\]](https://sfgov.legistar.com/LegislationDetail.aspx?ID=1946783&GUID=0725E575-B05E-4137-B771-E8BFD5B98237)
 
 
 ## SF Elections Commission
@@ -48,9 +48,9 @@ voting system running on commercial off-the-shelf hardware; and to request
 that the Mayor and Board of Supervisors initiate and fund a project to
 develop and certify such a system for use in San Francisco.
 
-Links: [\[archived PDF\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.pdf)
-[\[archived TXT\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.txt)
-[\[resolutions page\]](http://sfgov.org/electionscommission/motions-and-resolutions)
+Links: [\[PDF resolution\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.pdf)
+[\[TXT resolution\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.txt)
+[\[original source\]](http://sfgov.org/electionscommission/motions-and-resolutions)
 
 
 ## Organizations
@@ -60,8 +60,8 @@ Links: [\[archived PDF\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res
   Unanimous "Resolution in Support of an Open Source Voting System for San
   Francisco" (1 page) on April 13, 2016. Introduced by Joshua Arce and
   co-sponsored by Rebecca Prozan, Zoe Dunning and Kat Anderson:
-  [\[archived PDF\]](files/archive/SF_DCCC_Open_Source_Voting_Res.pdf)
-  [\[external link\]](http://www.sfdemocrats.org/meetings)
+  [\[PDF resolution\]](files/archive/SF_DCCC_Open_Source_Voting_Res.pdf)
+  [\[original source\]](http://www.sfdemocrats.org/meetings)
 * [**San Francisco Technology Democrats (SF Tech Dems)**](http://www.sftechdems.org).
   David Cruise, President & CEO, SF Tech Dems.
 * [**Harvey Milk LGBT Democratic Club**](http://www.milkclub.org)
@@ -71,15 +71,19 @@ Links: [\[archived PDF\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res
 * [**Represent Us San Francisco**](https://www.sfrepresentus.com/)
 * [**Electronic Frontier Foundation (EFF)**](https://www.eff.org)
 * [**California Common Cause**](http://www.commoncause.org)
+  [\[PDF letter\]](files/support/CA_Common_Cause_Letter_of_Support.pdf)
 * [**GitHub**](http://github.com).
   Chris Wanstrath, CEO and Co‐Founder, GitHub, Inc.
+  [\[PDF letter\]](files/support/GitHub_Letter_of_Support.pdf)
 * [**FairVote**](http://www.fairvote.org).
   Rob Richie, Executive Director, FairVote.
+  [\[PDF letter\]](files/support/FairVote_Letter_of_Support.pdf)
 * [**Verified Voting Foundation**](http://verifiedvoting.org).
   Pamela Smith, President, Verified Voting Foundation.
 * [**Open Source Initiative (OSI)**](http://www.opensource.org)
 * [**Voting Rights Task Force**](http://CountedAsCast.com/alameda/vrtf.php).
   Jim Soper, Co-chair, Voting Rights Task Force.
+  [\[PDF letter\]](files/support/VRTF_Letter_of_Support.pdf)
 * [**Open Source Election Technology
   Foundation (OSET Foundation)**](http://www.osetfoundation.org)
 * [**National Election Defense Coalition**](http://www.electiondefense.org)

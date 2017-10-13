@@ -19,6 +19,7 @@ Follow us on Twitter here: [@SFOpenVoting][SFOpenVoting-twitter].
 * How you can help (e.g. sample letter of support).
 * FAQ
 * Past speaking engagements
+* Official reports
 * And more!
 
 For more information, contact <info@sfopenvoting.org>.
