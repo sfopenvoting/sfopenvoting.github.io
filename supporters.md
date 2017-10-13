@@ -1,9 +1,10 @@
 # Open Source Voting Support
 
-There is strong support in San Francisco for creating an open source voting
+There is strong support in San Francisco to create an open source voting
 system:
 
-* [San Francisco Board of Supervisors Resolution](#board-of-supervisors-resolution)
+* [San Francisco Board of Supervisors](#sf-board-of-supervisors)
+* [San Francisco Elections Commission](#sf-elections-commission)
 
 In addition, below are some of those in support of the City and County of San
 Francisco starting and fully funding a project to develop and certify an open
@@ -20,7 +21,7 @@ Supervisors.
 [Coming soon: sample letter of support.]
 
 
-## Board of Supervisors Resolution
+## SF Board of Supervisors
 
 In December 2014, the San Francisco Board of Supervisors unanimously passed a
 resolution committing San Francisco to work towards creating an open source
@@ -35,13 +36,25 @@ and Mar: [\[archived PDF\]](files/archive/SF_BOS_Open_Source_Voting_Res.pdf)
 [\[legislation page\]](https://sfgov.legistar.com/LegislationDetail.aspx?ID=1946783&GUID=0725E575-B05E-4137-B771-E8BFD5B98237)
 
 
+## SF Elections Commission
+
+On November 18, 2015, the [San Francisco Elections
+Commission](http://sfgov.org/electionscommission) unanimously (6-0)
+passed a resolution asking the Mayor and Board of Supervisors to fund a
+project to create an open source voting system:
+
+> Resolution to support the development and certification of an open source
+voting system running on commercial off-the-shelf hardware; and to request
+that the Mayor and Board of Supervisors initiate and fund a project to
+develop and certify such a system for use in San Francisco.
+
+Links: [\[archived PDF\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.pdf)
+[\[archived TXT\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.txt)
+[\[resolutions page\]](http://sfgov.org/electionscommission/motions-and-resolutions)
+
+
 ## Organizations
 
-* [**San Francisco Elections Commission**](http://sfgov.org/electionscommission).
-  Unanimous (6-0) "Open Source Voting Systems Resolution" on November 18, 2015:
-  [\[archived PDF\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.pdf)
-  [\[archived TXT\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.txt)
-  [\[external link\]](http://sfgov.org/electionscommission/motions-and-resolutions)
 * [**San Francisco Democratic County Central
   Committee (DCCC)**](http://www.sfdemocrats.org).
   Unanimous "Resolution in Support of an Open Source Voting System for San
