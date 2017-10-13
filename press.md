@@ -35,8 +35,8 @@
    contract,”](http://www.sfexaminer.com/clock-ticking-open-source-voting-effort-sf-extends-voting-machine-contract)
    by Joshua Sabatini (January 10, 2017).
 
-8. _NBC Bay Area News_ (5-minute video), [“Voting Vulnerability: Could Open Source
-   Computer Code Thwart Threat from
+8. _NBC Bay Area News_ (includes 5-minute video), [“Voting Vulnerability:
+   Could Open Source Computer Code Thwart Threat from
    Hackers?”](http://www.nbcbayarea.com/investigations/Voting-Vulnerability-Could-Open-Source-Computer-Code-Thwart-Threat-from-Hackers-395867861.html)
    by Stephen Stock, Michael Bott and Jeremy Carroll (October 5, 2016).
 
@@ -52,3 +52,6 @@
     [“San Francisco sets sights on open source voting by November
     2019,”](http://www.sfexaminer.com/san-francisco-sets-sights-on-open-source-voting-by-november-2019)
     by Joshua Sabatini (November 26, 2015).
+
+![San Francisco Examiner cover photo](assets/images/SFExaminer_cover_20151126.jpeg
+"San Francisco Examiner cover photo")
