@@ -17,7 +17,6 @@ Follow us on Twitter here: [@SFOpenVoting][SFOpenVoting-twitter].
 ## More to come
 
 * How you can help (e.g. sample letter of support).
-* FAQ
 * Past speaking engagements
 * Official reports
 * And more!

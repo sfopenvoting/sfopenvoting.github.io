@@ -1,4 +1,4 @@
-# Press Coverage
+# Media Coverage
 
 (Listed in reverse chronological order:)
 

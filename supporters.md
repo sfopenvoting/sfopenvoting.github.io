@@ -1,4 +1,4 @@
-# Open Source Voting Support
+# Open Source Voting Supporters
 
 There is strong support in San Francisco to create an open source voting
 system:
@@ -48,10 +48,11 @@ voting system running on commercial off-the-shelf hardware; and to request
 that the Mayor and Board of Supervisors initiate and fund a project to
 develop and certify such a system for use in San Francisco.
 
-Links: [\[PDF resolution\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.pdf)
+Links: [\[PDF resolution\]][sf-commission-resolution-pdf]
 [\[TXT resolution\]](files/archive/SF_Elections_Comm_Open_Source_Voting_Res.txt)
 [\[original source\]](http://sfgov.org/electionscommission/motions-and-resolutions)
 
+[sf-commission-resolution-pdf]: files/archive/SF_Elections_Comm_Open_Source_Voting_Res.pdf
 
 ## Organizations
 
@@ -200,3 +201,4 @@ Links: [\[PDF resolution\]](files/archive/SF_Elections_Comm_Open_Source_Voting_R
 
 
 [fairvote-ca]: http://www.fairvoteca.org/
+[sf-commission-resolution-pdf]: files/archive/SF_Elections_Comm_Open_Source_Voting_Res.pdf
