@@ -3,7 +3,7 @@
 Here is a paper version of the information on this page (one-page,
 double-sided):
 
-* [Fact Sheet][handout-fact-sheet] (PDF, updated Nov. 6, 2017)
+* [Fact Sheet][handout-fact-sheet] (1-Page PDF, updated Jan. 3, 2018)
 
 
 **What is the project?**
