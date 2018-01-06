@@ -66,6 +66,8 @@ Links: [\[PDF resolution\]][sf-commission-resolution-pdf]
 * [**San Francisco Technology Democrats (SF Tech Dems)**](http://www.sftechdems.org).
   David Cruise, President & CEO, SF Tech Dems.
 * [**Harvey Milk LGBT Democratic Club**](http://www.milkclub.org)
+* [**SF Berniecrats**](http://www.sfberniecrats.com)
+  (after [Jan. 3, 2018 presentation](https://twitter.com/adrielhampton/status/948760078290595840))
 * [**San Francisco Green Party**](http://sfgreenparty.org)
 * [**Code for San Francisco**](http://codeforsanfrancisco.org).
   Jesse Biroscak, Captain, Code for San Francisco.
