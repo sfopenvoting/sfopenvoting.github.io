@@ -43,9 +43,11 @@ San Francisco being locked in to a single vendor.
 
 In addition to open source and election integrity advocates, the Board of
 Supervisors and San Francisco Elections Commission both passed unanimous
-resolutions supporting the development of an open source voting system.
-[Supporters](supporters) include groups like the Electronic Frontier
-Foundation (EFF), Code for America's SF chapter, and the SF DCCC.
+resolutions [\[1\]](supporters#sf-board-of-supervisors)
+[\[2\]](supporters#sf-elections-commission) supporting the development of an
+open source voting system. [Supporters](supporters) include groups like the
+Electronic Frontier Foundation (EFF), Code for America's SF chapter, and the
+SF DCCC.
 
 **Why doesn't an open source voting system already exist?**
 
@@ -70,8 +72,8 @@ price of $13.78 million in 2007 dollars.
 
 In July 2016, the Mayor and Board of Supervisors allocated $300,000 to the
 Department of Elections for the Planning Phase / Phase 1 to work out cost,
-timeline, and next steps. In October 2017, the Department contracted with
-Slalom to develop a report due January 2018. The Elections Commission also
+timeline, and next steps. In October 2017, the Department contracted with the
+firm Slalom to draft a report due January 2018. The Elections Commission also
 created a 5-member [Open Source Voting System Technical Advisory
 Committee][sf-osvtac] (OSVTAC) in April 2017 to develop project
 recommendations.
@@ -93,11 +95,13 @@ also be monitoring the project.
 **Has the California Secretary of State spoken publicly about open source
 voting?**
 
-Secretary of State Alex Padilla said publicly in November 2015 that he
-thought it "quite possible" and "very likely" that an open source voting
-system would be certified by his office during his current term. In September
-2016, he said on television that "open source is the ultimate in transparency
-and accountability for all."
+Secretary of State Alex Padilla [said publicly][padilla-youtube] in November
+2015 that he thought it "quite possible" and "very likely" that an open
+source voting system would be certified by his office during his current
+term. In September 2016, he said [on television][nbc-news] that "open source
+is the ultimate in transparency and accountability for all." However, he has
+not stated a preference.
+
 
 **How can San Francisco reduce project risk?**
 
@@ -118,9 +122,9 @@ the open source system is being developed.
 
 **How can I help?**
 
-1. Tell Mayor Ed Lee and the Board of Supervisors that you support open
-source voting, and ask them to fund San Francisco's open source voting
-project.
+1. Tell the Mayor, the Board of Supervisors, and San Francisco's [Committee
+on Information Technology (COIT)][sf-coit] that you support open source
+voting, and ask them to fully fund San Francisco's open source voting project.
 
 2. Follow and retweet [@SFOpenVoting][sf-open-voting-twitter] on Twitter.
 
@@ -137,7 +141,10 @@ For more information, contact <info@sfopenvoting.org> or visit
 
 
 [handout-fact-sheet]: files/handouts/Open_Source_Voting_Fact_Sheet.pdf
+[nbc-news]: https://www.nbcbayarea.com/investigations/Voting-Vulnerability-Could-Open-Source-Computer-Code-Thwart-Threat-from-Hackers-395867861.html
 [open-source-definition]: https://opensource.org/osd
+[padilla-youtube]: https://www.youtube.com/watch?v=GfzWt1TJ3qQ&t=35m00s
+[sf-coit]: http://sfcoit.org/
 [sf-commission-meetings]: http://sfgov.org/electionscommission/
 [sf-commission-resolution-pdf]: files/archive/SF_Elections_Comm_Open_Source_Voting_Res.pdf
 [sf-osvtac]: https://osvtac.github.io/
