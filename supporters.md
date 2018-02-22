@@ -75,6 +75,9 @@ Links: [\[PDF resolution\]][sf-commission-resolution-pdf]
 * [**Electronic Frontier Foundation (EFF)**](https://www.eff.org)
 * [**California Common Cause**](http://www.commoncause.org)
   [\[PDF letter\]](files/support/CA_Common_Cause_Letter_of_Support.pdf)
+* [**California Clean Money Campaign**](http://www.caclean.org/).
+  Trent Lange, President & Executive Director. (Announced Feb. 21, 2018
+  via press release.)
 * [**GitHub**](http://github.com).
   Chris Wanstrath, CEO and Co‐Founder, GitHub, Inc.
   [\[PDF letter\]](files/support/GitHub_Letter_of_Support.pdf)
