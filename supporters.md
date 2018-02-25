@@ -76,8 +76,9 @@ Links: [\[PDF resolution\]][sf-commission-resolution-pdf]
 * [**California Common Cause**](http://www.commoncause.org)
   [\[PDF letter\]](files/support/CA_Common_Cause_Letter_of_Support.pdf)
 * [**California Clean Money Campaign**](http://www.caclean.org/).
-  Trent Lange, President & Executive Director. (Announced Feb. 21, 2018
-  via press release.)
+  Trent Lange, President & Executive Director. \[[Press
+  release](http://www.yesfairelections.org/newslink/ccmc_2018-02-21.php),
+  Feb. 21, 2018.]
 * [**GitHub**](http://github.com).
   Chris Wanstrath, CEO and Co‐Founder, GitHub, Inc.
   [\[PDF letter\]](files/support/GitHub_Letter_of_Support.pdf)
