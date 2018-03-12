@@ -15,7 +15,7 @@ def main():
     lines = text.splitlines()
     print(f'read {len(lines)} supporters')
 
-    data = {'sf-residents': lines}
+    data = {'residents': lines}
     lines = sorted(lines)
     # Format for Markdown.
     lines = [f'1. {line}' for line in lines]
