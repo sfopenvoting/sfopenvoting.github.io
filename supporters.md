@@ -100,101 +100,188 @@ Links: [\[PDF resolution\]][sf-commission-resolution-pdf]
 
 1. [Brian Behlendorf](http://brian.behlendorf.com/),
    Co-founder, [Apache Software Foundation](https://www.apache.org).
-2. Pedro Hernandez, Deputy Director, [FairVote California][fairvote-ca].
-3. [Steven Hill](http://steven-hill.com), Senior Fellow, [New America Foundation](https://www.newamerica.org).
-4. Alec Bash, Former President, SF DemocracyAction Democratic Club.
-5. [Nadia Eghbal](http://nadiaeghbal.com/), open-source writer, researcher,
+1. Pedro Hernandez, Deputy Director, [FairVote California][fairvote-ca].
+1. [Steven Hill](http://steven-hill.com), Senior Fellow, [New America Foundation](https://www.newamerica.org).
+1. Alec Bash, Former President, SF DemocracyAction Democratic Club.
+1. [Nadia Eghbal](http://nadiaeghbal.com/), open-source writer, researcher,
    and speaker.
-6. Adrian Artiles
-7. Nikolas Baron
-8. Caitlin Barta
-9. Areej Bazzari
-10. Mathias Brandewinder
-11. Matt Brictson
-12. Eric Brooks
-13. Hannah Burak
-14. John-Marc Chandonia
-15. Tom Cho
-16. Xavier Damman
-17. Laura Day
-18. Sean Donahue
-19. Chandra Friese
-20. Nitin Garg
-21. Jenn Georgevich
-22. Austin Gunter
-23. Denise Grab
-24. Lee Grant
-25. Travis Hairfield
-26. Malcolm Handley
-27. Jeff Hanke
-28. David Hincapie
-29. Stedman Hood
-30. Nicholas Howells
-31. Vi Huynh
-32. Barney Jackson
-33. Arman Jaffer
-34. Kevin Jenkins
-35. Zack Johns
-36. Justin Jones
-37. Laurel Kilgour
-38. Matthew King
-39. Ellee Koss, PhD
-40. Robert Kroeger
-41. Justin Kruger
-42. Praveen Kumar
-43. Sameeran Kunche
-44. Rob Lanphier
-45. Asheesh Laroia
-46. Rochelle Lee
-47. Hofit Lenchner
-48. Phil Li
-49. Thomas Lotze
-50. Deborah Lyon
-51. Martin MacKerel
-52. Pamela Mardo
-53. Lauren McGill
-54. Jonathan McKeever
-55. Mike Murphy
-56. Philip Neustrom
-57. Rahul Nihalani
-58. Sara and Peter Ogilvie
-59. Aviv Ovadya
-60. John E. Palmer
-61. Matthew Pancia
-62. Matt Pauker
-63. Geoffrey Pay
-64. Val Polouchkine
-65. Harsha Raju
-66. Jona Raphael
-67. Alex Rattray
-68. Luis Alberto Reyes
-69. Mikeal Rogers
-70. Monica Rosales
-71. Summer Rose
-72. Tony Santos
-73. Maddie Schults
-74. Karl Schultz
-75. John-Michael Scott
-76. Nihir Shah
-77. Alan Shreve
-78. Lance Smith
-79. Thomas Smyth
-80. Debra Solomon
-81. Kurt Spindler
-82. Rich Stone
-83. Jennifer Stowell, MPA
-84. Noah Swartz
-85. Jesse Szwedko
-86. Paul Tsier
-87. Karl Uhlig
-88. Paolo Villacarlos
-89. Tom Watson
-90. Logan Williams
-91. David Yoon
-92. Emma You
-93. Catherine Zhang
-94. Julie Zhou
-95. Noah Zoschke
+1. Adam Kim, Candidate for Board of Supervisors
+1. Adrian Artiles
+1. Adriel Hampton
+1. Adrienne Suffin
+1. Alan Shreve
+1. Albert Kochaphum
+1. Alex Rattray
+1. Alex Volkobily
+1. Alexandra Abdel-Malek
+1. Amy Farah Weiss
+1. Amy Hamblin
+1. Angela Sibelman
+1. Anna Heredia
+1. Areej Bazzari
+1. Arman Jaffer
+1. Armand Silva
+1. Asheesh Laroia
+1. Austin Gunter
+1. Aviv Ovadya
+1. Barbara Commins
+1. Barney Jackson
+1. Barry Hermanson, Green Party
+1. Beatrice Krivetsky
+1. Ben Rollin
+1. Bernard Choden
+1. Bob Demchick
+1. Brandon Harami
+1. Caitlin Barta
+1. Carlos Valero
+1. Catherine Bellin
+1. Catherine Zhang
+1. Cecilia Ciccone
+1. Chandra Friese
+1. Christian Einfeldt
+1. Christine Dela Rosa
+1. Cody Calamia
+1. Conor Ryan
+1. David Heilbron
+1. David Hincapie
+1. David Rapaport
+1. David Yoon
+1. Deborah Lyon
+1. Debra Solomon
+1. Denise Grab
+1. Dolores Priem
+1. Ellee Koss, PhD
+1. Ellen Price
+1. Emma You
+1. Eric Brooks
+1. Erin Mullaney
+1. Fred Lipschultz
+1. Fred Ostapik
+1. Geoffrey Pay
+1. Giuliana Milanese
+1. Glen Van Lehn
+1. Gloria Archuleta
+1. Hannah Burak
+1. Harsha Raju
+1. Hofit Lenchner
+1. Hunter Cutting
+1. James Enright
+1. Jay Wilson
+1. Jeanne Crawford
+1. Jeff Hanke
+1. Jenn Georgevich
+1. Jennifer Stowell, MPA
+1. Jesse Szwedko
+1. John & Ann Baker
+1. John Dentinger
+1. John E. Palmer
+1. John Thompson
+1. John-Marc Chandonia
+1. John-Michael Scott
+1. Jona Raphael
+1. Jonathan McKeever
+1. Joshua Sibelman
+1. Julie Zhou
+1. Justin Jones
+1. Justin Kruger
+1. Karen Stern
+1. Karl Schultz
+1. Karl Uhlig
+1. Kevin Jenkins
+1. Kurt Spindler
+1. Lance Carnes
+1. Lance Smith
+1. Laura Day
+1. Laurel Kilgour
+1. Lauren McGill
+1. Lee Grant
+1. Logan Williams
+1. Lois H. Scott
+1. Luis Alberto Reyes
+1. Maddie Schults
+1. Malcolm Handley
+1. Martin MacKerel
+1. Mary Leatherman
+1. Mathias Brandewinder
+1. Matt Brictson
+1. Matt Johnson
+1. Matt Pauker
+1. Matthew King
+1. Matthew Pancia
+1. Michael Warr
+1. Mike Caccioppoli
+1. Mike Kurokawa
+1. Mike Murphy
+1. Mikeal Rogers
+1. Milo Toor
+1. Mirka Morales
+1. Mo Shooer
+1. Monica Rosales
+1. Murray Pender
+1. Nicholas Howells
+1. Nick Pasquariello
+1. Nihir Shah
+1. Nikolas Baron
+1. Nitin Garg
+1. Noah Swartz
+1. Noah Zoschke
+1. Noel Commins
+1. Pamela Mardo
+1. Paolo Villacarlos
+1. Pat Koren
+1. Paul Bellar
+1. Paul Tsier
+1. Pauline Kahney
+1. Pete McCarthy
+1. Phil Li
+1. Philip Neustrom
+1. Phylis Demchick
+1. Praveen Kumar
+1. Rahul Nihalani
+1. Rich Stone
+1. Richard Girling
+1. Richard Ivanhoe
+1. Richard W. Price
+1. Rick St. John
+1. Rob Lanphier
+1. Robert Kroeger
+1. Robin Krop
+1. Robin Larsen
+1. Rochelle Lee
+1. Roger Sinasohn
+1. Sameeran Kunche
+1. Sara and Peter Ogilvie
+1. Sean Donahue
+1. Shant Mesrobian
+1. Sonni E. Willis
+1. Stedman Hood
+1. Stephen Jaffe
+1. Steven Mazliach
+1. Summer Rose
+1. Susan Jaffe
+1. Susan Setterholm
+1. Suzanne Bushnell
+1. Suzanne Cowan
+1. Thomas Lotze
+1. Thomas Mullaney
+1. Thomas Smyth
+1. Tim Wayne
+1. Tom Cho
+1. Tom Watson
+1. Tony Kelly
+1. Tony Santos
+1. Travis Hairfield
+1. Trevor P. Martin
+1. Troy Deck
+1. Val Polouchkine
+1. Verna Shaheen
+1. Vi Huynh
+1. William Fitzgerald
+1. William R. Schultz
+1. Winnie Porter
+1. Xavier Damman
+1. Zack Johns
+1. Zoe Kelman
 
 
 ## Other Individuals
