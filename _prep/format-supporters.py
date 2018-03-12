@@ -16,15 +16,8 @@ def main():
     print(f'read {len(lines)} supporters')
 
     data = {'residents': lines}
-    lines = sorted(lines)
-    # Format for Markdown.
-    lines = [f'1. {line}' for line in lines]
-    markdown = '\n'.join(lines)
 
-    temp_path = Path('temp.md')
-    print(f'writing to: {temp_path}')
-    temp_path.write_text(markdown)
-
+    print(f'writing to: {SUPPORTERS_JSON_PATH}')
     with open(SUPPORTERS_JSON_PATH, mode='w') as f:
         json.dump(data, f, indent=4)
 
