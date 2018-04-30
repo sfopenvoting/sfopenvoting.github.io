@@ -2,6 +2,16 @@
 
 (Listed in reverse chronological order:)
 
+1. _San Francisco Examiner_ article, [“State funding proposal for open source
+   voting gains
+   support,“](http://www.sfexaminer.com/open-source-voting-sf-may-require-match-state-local-funds/)
+   by Joshua Sabatini (April 4, 2018).
+
+1. _San Francisco Examiner_ article, [“Open-source voting in SF may require
+   match of state, local
+   funds,“](http://www.sfexaminer.com/open-source-voting-sf-may-require-match-state-local-funds/)
+   by Joshua Sabatini (April 1, 2018).
+
 1. _StateScoop_, [“San Francisco investigates open source voting
    system,“](http://statescoop.com/san-francisco-investigates-open-source-voting-system)
    by Jason Shueh (September 5, 2017).
