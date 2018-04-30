@@ -73,6 +73,8 @@ Links: [\[PDF resolution\]][sf-commission-resolution-pdf]
 * [**SF Berniecrats**](http://www.sfberniecrats.com)
   (after [Jan. 3, 2018 presentation](https://twitter.com/adrielhampton/status/948760078290595840))
 * [**San Francisco Green Party**](http://sfgreenparty.org)
+* [**SF Chapter of Unite America**](https://www.meetup.com/SF-Chapter/)
+  (formerly the Centrist Project)
 * [**Code for San Francisco**](http://codeforsanfrancisco.org).
   Jesse Biroscak, Captain, Code for San Francisco.
 * [**Represent Us San Francisco**](https://www.sfrepresentus.com/)
